@@ -1,0 +1,123 @@
+*
+{
+    margin: 10px;
+}
+#principal
+{
+    margin: auto;
+    margin-top: 20px;
+    width: 600px;
+    height: 600px;
+    border: 1px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+
+}
+#caja2
+{
+    margin: auto;
+    width: 180px;
+    height: 180px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    
+}
+#caja1
+{
+    margin: auto;
+    
+    width: 600px;
+    height: 190px;
+    
+    
+    
+    
+}
+#caja21
+{
+    margin: auto;
+    
+    width: 190px;
+    height: 190px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    
+}
+#caja3
+{
+    margin: auto;
+    margin-top: 165px;
+    width: 210px;
+    height: 210px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    
+}
+#caja11
+{
+    float: left;
+    margin: auto;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 25px;
+    height: 25px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    
+}
+#caja12
+{
+    float: right;
+    margin: auto;
+    margin-right: 35px;
+    margin-top: 30px;
+    width: 25px;
+    height: 25px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    
+}
+#caja13
+{
+    margin: auto;
+    margin-top: 100px;
+    width: 50px;
+    height: 25px;
+    border: 2px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    
+}
+#caja22
+{
+    
+    margin: auto;
+    
+    width: 500px;
+    height: 25px;
+    border: 2px;
+    border-radius: 25%;
+    border-style: solid;
+    border-color: black;
+    background-color: brown;
+    
+}
